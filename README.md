@@ -1,18 +1,27 @@
 # spacex_app
 
-A new Flutter project.
+### Development
+Clone the project
 
-## Getting Started
+```bash
+  git clone https://github.com/kasidit-tim/spacex_app.git
+```
 
-This project is a starting point for a Flutter application.
+Go to the project directory
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  cd spacex_app
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# spacex-app
-# spacex_app
+```bash
+  flutter pub get
+```
+
+Start the simulator
+
+```bash
+  flutter run
+```
+
